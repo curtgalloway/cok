@@ -1,0 +1,648 @@
+FILE   : SSIADD.DOC 
+Description : ----------------------------------------------------------------
+This text file will explain how to play CKRYNN.ZIP and DKRYNN.ZIP, The C64
+versions of Champions of Krynn & it's Sequel Death Knight of Krynn. 
+Unfortunetly Dark Queen was never released for the C64. Both games should 
+work on your copy of C64s v1c or v1b. SSI no longer makes C64 Games.
+------------------------------------------------------------------------------
+
+-* Contents *-
+
+[1] Introduction & Gold Box List
+[2] Playing The Game
+[3] Races & Classes
+[4] Other stuff you probably need to know
+[5] Tables, Lists and Charts
+
+------------------------------------------------------------------------------
+[1] Introduction
+------------------------------------------------------------------------------
+ " How to Play The Gold Box Games "
+
+ This text file is a basic over-view and documentation on playing the gold
+ box series of AD&D games from SSI. Unfortunetly SSI decided to end the gold
+ box series, which was there highest selling series of all time. Here's a
+ list of all the gold box games out to date.
+
+ --[Forgotten Relams]--
+
+ Pool of Radiance
+ Curse of the Azure Bonds
+ Secret of the Silver Blades
+ Pools of Darkness
+
+ --[DragonLance]--
+
+ Champions of Krynn
+ Death Knights of Krynn
+ Dark Queen of Krynn
+
+ --[Savage Frontier]--
+
+ Gateway to the Savage Frontier
+ Treasures of the Savage Frontier
+
+ --[Buck Rogers]--
+
+ Buck Rogers : Countdown to Doomsday
+ Buck Rogers : Matrix Cubed
+ 
+ --[Related AD&D Games]--
+
+ Dragonstrike! - (Dragonlance Flight Simulator)
+ War of the Lance - (Dragonlance Strategy/War Simulation)
+ Heroes of Flame - (Dragonlance Arcade/Adventure)   *Based on Books*
+ Dragons of Flame - (Dragonlance Arcade/Adventure)  *Based on Books*
+ Hillsfar - (Adventure/Arcade Game, Compatible with Pool/Curse)
+
+------------------------------------------------------------------------------
+[2] Basic Intructions on how to play
+------------------------------------------------------------------------------
+
+Basic Movement
+The game works pretty simple. You are presented with a 3D perspective in the
+upper left hand of the screen. To the side is your player stats, and to the
+bottom is the message box. A menu of game selections fill the bottom of the
+screen, there various functions should be obvious. AREA is used to get an
+overhead map view of your location. (Note: AREA in not available everywhere)
+Encamp will lead you to the encamp menu, Search will turn on the search mode,
+While in search mode your party is much more likely to spot traps, hidden
+doors, and treasure. However, your party is also more likely to be ambushed
+by a random encounter if you have the search mode enabled. Look looks around,
+And view will let you look at a character's status screen.
+
+The Encamp Menu
+The Encamp menu will mainly allow you to rest your party, and let your spell
+casters memorize their spells. To heal damaged characters, you can either
+rest for 1 day per hit point you want to recover, or you can use FIX. FIX
+will have your clerics cast and re-memorize all the heal spells they can
+untill all of the players are healed. (FIX is not in some games) Whenever
+you rest or run FIX, you have the chance of being ambushed by enemies if you
+are camped in an un-friendly location. When choosing a place to rest, it's
+often wise to pick buildings, or look for a secured area. If the place is 
+100% to rest, it will tell you in the message box when you enter the building.
+
+Magic : Memorizing/Scribing
+For the Spell casters to be able to cast their spells, they must memorize
+them first. To memorize spells goto the magic menu and select memorize and
+highlight a spellcaster. Once you have selected all the spells you want
+memorized go back to the rest option. A certain amount of time should be
+pre-entered in, this is the amount of time it takes to memorize the spells
+you have chosen. The higher the Level, the longer the time. After you are
+done resting, the spell casters will have the spells ready for the next
+encounter. Scribing is taking spells off of scrolls and entering them into
+the spell casters spell book. after you select the spells to scribe, you
+must also rest as if you were memorizing spells.
+
+The Personal Status Screen
+The Status screen of each character will give you a list of their stats.
+The most important are their attributes and Hit Points. You can also jump
+to the equipment menu from the status screen to equip/trade/drop items from
+their invetory. The character's status will also be noted at the top. 
+Character status can include ..
+OK    - They're fine
+DEAD  - They're dead. (Any non-elf character can be raised from the dead)
+STONE - You need to get them to a temple, or cast stone to flesh.
+GONE  - They're GONE. a GONE character is pretty much out of the Game.
+UCON. - Regain 1 Hit point (Rest/Spells) to get him back to OK
+
+Battles
+Battles are pretty easy. To get a character to attack a monster, simply
+move him to the adjacent square and push him into the target. To fire a
+missle weapon, select "AIM" after you've readied a bow or whatever. NOTE,
+you can't fire a missle if there's an enemy adjacent to your player. To
+have your magic users cast spells, select CAST. QUICK will put your party
+under computer control. To regain manual control, hit the space bar.
+GAURD will have your characters attack the first monster to come close,
+and DELAY will let you come back to them later in the round. QUIT will
+end the round for the character, or the battle if the enemies have been
+defeated. The amount of spaces your characters can move per round is based
+on the amount of items they are currently carrying. VIEW will let you
+change items/weapons in the middle of a fight.
+
+------------------------------------------------------------------------------
+[3] Characters, Classes, Races & Etc ..
+------------------------------------------------------------------------------
+
+RACES
+
+Human
+The human is the basic character. They can be any class, but only 1 class.
+Humans can be DUAL-CLASS characters in most games. When your human decides
+to be dual class he will lose ALL of the abilities of his current class untill
+he reaches one level over his current level in his new class. At that time he
+can use the abilities of both classes. However, Human Fighter/Magic Users can
+not cast spells when wearing armour.
+
+Elves
+Elves have slightly higher dexterities than normal races. Elves live a very
+long time, but they cannot be raised from the dead. Elves can be just about
+any class, and they can also be multi-classed. Multi-Classed characters are
+characters with 2-3 classes. The Pro to this is that they get all the 
+abilities of all three classes at the same time, but the Con is that they
+advance very slowly in their classes since all of their earned experience is
+split 3 ways. 
+
+Dwarf
+Dwarves have high constitutions and get bonus damage points against monsters
+that are larger than man-size. Dwarves can be multi-classed. Dwarves make
+very good rangers.
+
+Half-Orcs, Half-Elves & Halflings
+These races can also multi-classed. However, as with all characters that
+can be Multi-Classed, their maximum levels of advancement are often limited.
+
+Kender
+Kender are only available in the DragonLance games. Kender can be multi-class
+and have the ability to "Taunt" a foe, which really ticks them off, making
+them fight poorly due to their rage. Kenders are at their best when armed
+witha HOOPAK, a weapon which doubles as a sling and a staff. Kenders make
+excellent theives.
+
+CLASSES
+
+Fighter
+The Fighter is your all-around warrior type. They can use any weapon in the
+game, and at higher levels they get multiple-attacks. Fighters have the best
+THAC0s and do the best in battle. Just about any race can be a fighter.
+
+Cleric
+Clerics are spell casters who mainly deal with healing. Clerics do however
+have some decently potent offensive spells. Without a cleric to heal your
+party, your as good as dead. The more clerics, the easier it will be to
+use the FIX command. Clerics can wear armour, but can only use weapons that
+are blunt, like a mace. (No Swords, Daggers, Etc..) Clerics are also pretty
+good in a fight.
+
+Magic-User
+Magic-Users are your spell casting class. At first they start off very weak,
+but in time, a good Magic User can easily take on just about anybody. Magic
+Users cannot wear armour, and they can only fight with Staves and Daggers.
+Magic Users are very poor at hand to hand combat, so it's not recomended you
+put them on the front line. They do their best in the back throwing fireballs.
+
+Thieves
+Thieves are somewhat decent fighters, they get TONS of damage when they
+backstab. At higher levels they can cast spells off of scrolls. The biggest
+advantage to the thief is they are good at finding and disarming traps, and
+finding doors, treasure and all that other stuff. Thieves can only wear
+leather armor, if a multi-classed thief is wearing anything higher, he will
+not be able to preform as backstab.
+
+Rangers
+Rangers are fighters with the ability to cast Druid spells at higher levels.
+Rangers must be of Good nature, and they can fight with any weapon and use
+any type of armour. At higher levels they also get Bonus Hits like a normal
+fighter. Rangers get bonus damage against larger than man-size monsters, thus
+a Dwarven Ranger gets double the bonus when fighting a large creature.
+
+Paladins
+Paladins are fighters of justice. They must be Good, and will not adventure
+with any evil characters. Paladins can heal wounds and diseases so many times
+a week, and they can cast Cleric spells at higher levels. Paladins are immune
+to diease and are always protected against evil as if the 1st level MU spell
+had been cast upon them. Only humans can be Paladins.
+
+Solmanic Knights
+Solmanic Kinghts are only available in the DragonLance games. A Solmanic
+Knight is a fighter who can cast clerical spells at higher levels. There
+are three orders of Knights, Crown, Sword, And Rose. To join a higher order
+a Knight must have a decent amount of experience. Knights always give most
+of their steel to charity when entering a village or an outpost. You MUST
+have at least one knight in your party to complete the DragonLance games.
+A solmanic knight can use any weapon/armour, but feels best when he's
+wearing Solmanic Plate and holding a DragonLance.
+
+------------------------------------------------------------------------------
+[4] other stuff you probably need to know.
+------------------------------------------------------------------------------
+
+Q: Where do i heal my characters?
+A: Take them to a temple, or use have your clerics cast spells upon them.
+
+Q: Where do i train my characters?
+A: At the training halls. There's ussally one in every town.
+
+Q: In Dragonlance, what's the diffrence between white and red robes mages?
+A: White robe mages are GOOD, Red Robes are NUETRAL in alignment.
+
+Q: How do i Backstab?
+A: Good question. First select the target. Then, move a character into attack
+   it. Once your 1st Character has delivered a blow, it's time to send the
+   Thief in. Position your Theif on the OPPOSITE side of where your other
+   character is. Then have him swing with his dagger or whatever. If you did
+   it right, he will hit for a considerably larger amount of damage than he
+   ussally does.
+
+Q: Anything i should know before casting spells?
+A: Be carefull of the range. Fireballs should be cast away from your people,
+   related spells such as Ice Storm and Cone of Cold should also be cast a
+   safe distance away. Be VERY carefull with the Cloudkill, the range is
+   very short, and it can kill low level characters in a snap.
+
+Q: Anything cool i can do with the lightning bolt spell?
+A: Yeah, it bounces off of walls. So when you see some stupid shmuck standing
+   right in front of a wall, blast him once, then watch it rebound for double
+   the damage. Be carefull, it can also rebound back to the caster.
+
+Q: Some spells plain don't work against some monsters!
+A: Some creatures are magically resistant. If your spell just doesn't do
+   anything at all, it's probably because the monster in question is immune,
+   or resistant.
+
+Q: Battle Strategies?
+A: Take out the spell casters first.
+
+Q: Dragon Strategies?
+A: Dragon's can breathe for a HUGE amount of damage. Spread your characters
+   out, and attack quick. You want to kill the dragons as quickly as possible
+   as the longer it lives, the more times it can breathe on your people.
+
+Q: My elf died, what do i do?
+A: look for loose change in his pockets. Dead elves are gone forever...
+
+Q: Should i use elves then?
+A: They work very well in Dragonlance, be carefull with them anywhere else
+
+Q: What's the deal with a dragonlance?
+A: Dragonlance do the wielders hit point total in damage against the dragon.
+   So, if Sir. Bob has 150 hit points, when he hit with a Dragonlance, he's
+   going to do 150 point of damage. That's only against dragons though, on
+   normal creatures it's a normal hit, but the weapon is still powerfull even
+   when being used against non-dragon enemies.
+
+Q: What's THAC0?
+A: To Hit Armor Class 0. The Lower the THAC0 the more likely the player is
+   to hit in combat.
+
+Q: What's AC?
+A: Armor Class, the lower the better.
+
+Q: How do i know if an item is magical?
+A: You don't normally, after a really hard fight, or if you ever get ALOT
+   of experience points for a fight, you've probably got enchanted stuff.
+   Cast detect magic for the best results. 
+
+Q: What does "+2" mean?
+A: The plus is the amount of enchantment on an item. A +1 Sword will lower
+   your THAC0 by 1 and give you a +1 in damage. Or a +1 Shield would lower
+   your AC by 1 extra point.
+
+Q: What are the spells, and what about gold, and levels and .. ?!?1
+A: Read the "Chart" Section that follows this one.
+
+Q: What's a good spell against Humans?
+A: Hold Person, one hit, takes them out.. It's great.
+
+Q: What can i do before a really hard battle?
+A: Cast prayer and bless, and any protection spells.. Save the Game!
+   Also HASTE and ENLARGE are good spells that will make your people alot
+   stronger, and give them more moves per round.
+
+Q: How do i beat those damned death knights?
+A: With luck.. They're hard. Kenders are immune to their fear. Don't cast
+   any spells on them, they don't work, and have a chance of bouncing back
+   to the caster. Get some Fighters in their and chop them up fast as you
+   can.
+
+Q: Where's Dave Shelly's Challenge?
+A: In Death Knights, it's in the upper left hand corner in amungst the
+   mountains. Be carefull.. It's nearly impossible.
+
+Q: How do i defeat the Golums?
+A: Fireballs heal them, and Lightning bolts slow them. Best method is using
+   a dwarven ranger to rack up the points against them.
+
+Q: What's the "Journal"
+A: Book that came with the game. The game will refer to Journal Entries
+   throughout the game. Sorry i can't help, no way i'm typing out a 40 page
+   section for a game, but i can help you with certain parts.
+
+Q: How do i contact you?
+A: Send your email to numsix@gate.net
+
+Q: Anyway i can.. well.. er.. Cheat?
+A: Cheats and trainers are out there, but there's a couple of tricks i've
+   picked up along the way. First, when you create a character, always take
+   the chance to modify him so that all of his stats are maxed out, this
+   always tends to help. Also you can use the switch method. To use the
+   switch method, first make a backup of your save game disk. Make a BS
+   character and give him all of your best items. Save the character to 
+   disk. Insert your other save disk and add him to the party, distribute 
+   the wealth, and you just doubled your items. 
+
+------------------------------------------------------------------------------
+[5] Tables, Lists & Charts
+------------------------------------------------------------------------------
+
+Multiple Attacks for Fighter Type Classes
+
+Fighter Level 1-6  : Attacks per Round : 1/1
+        Level 7-12 : Attacks per Round : 3/2
+        Level 13+  : Attacks per Round : 2/1
+Paladin Level 1-6  : Attacks per Round : 1/1
+        Level 7-12 : Attacks per Round : 3/2
+        Level 13+  : Attacks per Round : 2/1
+Ranger  Level 1-7  : Attacks per Round : 1/1
+        Level 8-14 : Attacks per Round : 3/2
+        Level 15+  : Attacks per Round : 2/1
+
+Spells : Cleric
+
+-* Name *-        -* Level *-  -* Description *-   
+ Bless                 1       Lowers AC during battle                         
+ Curse                 1       Raises AC of Oponent                         
+ Cure Light Wounds     1       Heals 1-6pts of Damage
+ Cause Light Wounds    1       Causes 1-6pts of Damage
+ Detect Magic          1       Will tell if you if item(s) is magical.
+ Protection from Evil  1       Protects from evil during battle
+ Protection from Good  1       Protects from good during battle
+ Resist Cold           1       Protects against cold based attacks
+ Find Traps            2       Find traps
+ Hold Person           2       Will paralyze 1 human target
+ Resist Fire           2       Resist fire based attacks
+ Silence 15' Radius    2       Can't Cast spells when silenced
+ Slow Posion           2       Will slow, but not cure, poisoned characters
+ Snake Charm           2       Charm snakes
+ Spiritual Hammer      2       Creates hammer(s) in your inventory to throw.
+ Cure Blindness        3       Cures Blindness
+ Cause Blindness       3       Blind an Enemy
+ Cure Disease          3       Cures disease
+ Cause Disease         3       Inflicts disease on opponents
+ Dispel Magic          3       Dispels Spells cast on characters
+ Prayer                3       Like a Bless for the whole party
+ Remove Curse          3       Remove a curse
+ Bestow Curse          3       Throw a curse on somebody
+ Cure Serious Wounds   4       Cures More than Light Wounds
+ Neutralize Posine     4       Heal Poisoned Characters
+ Poison                4       Poison somebody (Save or Die :)
+ Sticks to snakes      4       Creates some snakes to help out
+ Cure Critical Wounds  5       Cures more than serious
+ Dispel Evil           5       Will destroy summoned creatures
+ Flame Strike          5       Does 6-26 pts of damage
+ Raise Dead            5       Raise a dead person
+ Slay Living           5       Kills somebody, (or at least causes damage)
+ Blade Barrier         6       Offensive Spell 8-64pts of Damage
+ Harm                  6       Inflicts Terrible damage (only leaves 1-4pts)
+ Heal                  6       Heals all of damage except 1-4pts
+ Destruction           7       Causes the target to die (no save)
+ Energy Drain          7       Steals life from an enemy
+ Resurrection          7       Like raise dead, plus restores hit points
+ Restoration           7       Returns levels stolen by wraiths
+
+Spells : Magic User
+
+-* Name *-        -* Level *-  -* Description *-
+ Burning Hands         1       Causes 1-3pts per level of damage
+ Charm Person          1       Charms a human to fight for your party
+ Detect Magic          1       Detects Magical items
+ Enlarge               1       Increases characters strength
+ Friends               1       Increases Charisma (good for encounters)
+ Magic Missle          1       Does 2-5 pts of damage (more at higher lvls)
+ Read Magic            1       Read Scrolls/Magical Writing
+ Shield                1       Lower AC by 1
+ Shocking Grasp        1       Same as Burning Hands
+ Sleep                 1       Puts a bunch of low-level monsters to sleep
+ Detect Invisibility   2       Detects Invisisble Things
+ Invisibility          2       Turns the Spell Caster Invisible
+ Knock                 2       Unlocks locks doors
+ Mirror Image          2       Protects the spell caster
+ Stinking Cloud        2       May paralyze people in it's wake (area 2x2)
+ Strangth              2       Increases Target Character's Stength
+ Blink                 3       Protects the spell caster
+ Dispel Magic          3       Same as cleric spell
+ Fireball              3       Does 6pt/Lvl of damage (area 7 dia)
+ Haste                 3       Doubles characters movements/attacks
+ Hold Person           3       Same as Cleric spell
+ Lightning Bolt        3       Does 6pt/Lvl of damage 
+ Slow                  3       Half enemies movements
+ Charm Monster         4       Charm monster to fight for your party
+ Confusion             4       Cause enemies to run, go crazy, or do nothing
+ Dimension Door        4       Warp anywhere withing MU's line of vision
+ Fear                  4       Cause enemies to flee
+ Fire Shield           4       Enemies take 2x damage they inflict on you
+ Fumble                4       Screws up spell casters
+ Ice Storm             4       Offensive       (area 4 dia)
+ Min. Globe of Invun.  4       Protects against enemy spells                                                       
+ Cloudkill             5       Kills enemies in field (area 3x3)
+ Cone of cold          5       Offensive Spell                         
+ Feeblemind            5       Really screws up spell casters
+ Hold Monsters         5       Like hold person, except it works on monsters
+ Death Spell           6       Kills monsters
+ Disintergrate         6       Destroys Target (no save)
+ Globe of Invun.       6       Better globe of protection from spells
+ Stone to flesh        6       Turn stoned people to flesh
+ Flesh to stone        6       Turn people/monsters to stone
+ Delayed blast firebl  7       Bette fireball with 'Timer' (area 7 dia)
+ Mass Invisibility     7       Ivisibility for the whole party
+ Power Word Stun       7       Stun an enemy
+ Mass charm            8       Charm a bunch of enemies
+ Ottos Irr. Dance      8       Paralyzes an enemy
+ Meteor Swarm          9       offensive 10-40 pts of damage
+ Monster Summoning     9       Summon Monsters to aid in a fight
+ Power word kill       9       Kill somebody
+
+
+Level Advancement Charts
+
+Magic User --------------------------------------------------------------
+
+ 1 - 0          Spell Level 1
+ 2 - 2,500       
+ 3 - 5,000      Spell Level 2
+ 4 - 10,000
+ 5 - 22,500     Spell Level 3
+ 6 - 40,000
+ 7 - 60,000     Spell Level 4
+ 8 - 90,000
+ 9 - 135,000    Spell Level 5
+10 - 250,000
+11 - 375,000
+12 - 750,000    Spell Level 6
+13 - 1,125,000   
+14 - 1,500,000  Spell Level 7
+15 - 1,875,000
+16 - 2,250,000  Spell Level 8
+17 - 2,625,000
+18 - 3,000,000  Spell Level 9
+<*> Every level after 18th requires 375,000 more points <*>
+-------------------------------------------------------------------------
+
+Cleric ------------------------------------------------------------------
+ 1 - 0         Spell Level 1
+ 2 - 1,500
+ 3 - 3,000     Spell Level 2
+ 4 - 6,000
+ 5 - 13,000    Spell Level 3
+ 6 - 27,500
+ 7 - 55,000    Spell Level 4
+ 8 - 110,000
+ 9 - 225,000   Spell Level 5
+10 - 450,000
+11 - 675,000   Spell Level 6
+12 - 900,000
+13 - 1,125,000
+14 - 1,350,000
+15 - 1,575,000
+16 - 1,800,000 Spell Level 7
+17 - 2,025,000
+18 - 2,250,000
+<*> Each level after 18th requires 225,000 points <*>
+-------------------------------------------------------------------------
+
+Ranger ------------------------------------------------------------------
+ 1 - 0
+ 2 - 2,250
+ 3 - 4,500
+ 4 - 10,000
+ 5 - 20,000
+ 6 - 40,000
+ 7 - 90,000
+ 8 - 150,000         <Druid Spell Level 1>
+ 9 - 225,000         <Magic User Spell Level 1>
+10 - 325,000
+11 - 650,000
+12 - 975,000         <Druid Spell Level 2>
+13 - 1,300,000       <Magic User Spell Level 2>
+14 - 1,625,000
+15 - 1,950,000
+16 - 2,275,000
+17 - 2,600,000
+18 - 2,925,000
+<*> Each additonal level after 18th requires 325,000 points <*>
+-------------------------------------------------------------------------
+
+Paladin -----------------------------------------------------------------
+ 1 - 0
+ 2 - 2,750
+ 3 - 5,500
+ 4 - 12,000
+ 5 - 24,000
+ 6 - 45,000
+ 7 - 95,000
+ 8 - 175,000
+ 9 - 350,000      Cleric Spell Level 1
+10 - 700,000
+11 - 1,050,000    Cleric Spell Level 2
+12 - 1,400,000 
+13 - 1,750,000    Cleric Spell Level 3
+14 - 2,100,000
+15 - 2,450,000    Cleric Spell Level 4
+16 - 2,800,000
+17 - 3,150,000
+18 - 3,500,000
+<*> Each level after 18th requires 350,000 points <*>
+-------------------------------------------------------------------------
+
+Fighter -----------------------------------------------------------------
+ 1 - 0
+ 2 - 2,000
+ 3 - 4,000
+ 4 - 8,000
+ 5 - 18,000
+ 6 - 35,000
+ 7 - 70,000
+ 8 - 125,000
+ 9 - 250,000
+10 - 500,000
+11 - 750,000
+12 - 1,000,000
+13 - 1,250,000
+14 - 1,500,000
+15 - 1,750,000
+16 - 2,000,000
+17 - 2,500,000
+18 - 3,000,000
+<*> Each Level after 18th requires 250,000 points <*>
+-------------------------------------------------------------------------
+
+Thief -------------------------------------------------------------------
+ 1 - 0
+ 2 - 1,250
+ 3 - 2,500
+ 4 - 5,000
+ 5 - 10,000
+ 6 - 20,000
+ 7 - 42,500
+ 8 - 70,000
+ 9 - 110,000
+10 - 160,000
+11 - 220,000
+12 - 440,000
+13 - 660,000
+14 - 880,000
+15 - 1,100,000
+16 - 1,320,000
+17 - 1,540,000
+18 - 1,760,000
+<*> Each level after 18th requires 220,000 points <*>
+-------------------------------------------------------------------------
+
+Knight of the Crown -----------------------------------------------------
+ 1 - 2,500
+ 2 - 5,000
+ 3 - 10,000
+ 4 - 18,500
+ 5 - 37,500
+ 6 - 85,000
+ 7 - 140,000
+ 8 - 220,000
+ 9 - 300,000
+10 - 600,000
+11 - 900,000
+12 - 1,200,000
+13 - 1,500,000
+14 - 1,800,000
+------------------------------------------------------------------------
+
+Knight of the Sword ----------------------------------------------------
+ 3 - 12,000
+ 4 - 24,000
+ 5 - 45,000
+ 6 - 95,000       Cleric Spell Level 1
+ 7 - 175,000
+ 8 - 350,000      Cleric Spell Level 2
+ 9 - 700,000
+10 - 1,050,000
+11 - 1,400,000    Cleric Spell Level 3
+12 - 1,750,000    Cleric Spell Level 4
+13 - 2,100,000    Cleric Spell Level 5
+14 - 2,450,000    Cleric Spell Level 6
+------------------------------------------------------------------------
+
+Knight of the Rose -----------------------------------------------------
+ 4 - 27,000
+ 5 - 60,000
+ 6 - 125,000
+ 7 - 200,000
+ 8 - 425,000
+ 9 - 800,000        < Spell Levels same as sword >
+10 - 1,500,000
+11 - 2,000,000
+12 - 2,500,000
+13 - 3,000,000
+14 - 3,500,000
+------------------------------------------------------------------------
+ 
+In Dragonlance the White Robe Magic-Users are equal to the normal magic
+users in advancement, while the red robes take a little bit less points
+per level.
+
+------------------------------------------------------------------------
+Maximum Levels by Race < Dragonlance differs from Forgotten Realms >
+< note : humans are not restricted in *any* class >
+
+Elf - Cleric/No - Fighter/7 - Paladin/No - Ranger/No - Magic/11 - Thief/Any
+Dwf - Cleric/No - Fighter/9 - Paladin/No - Ranger/No - Magic/No - Thief/Any
+Hlf - Cleric/5  - Fighter/8 - Paladin/No - Ranger/8  - Magic/8  - Thief/Any
+Hlg - Cleric/No - Fighter/6 - Paladin/No - Ranger/No - Magic/No - Thief/Any
+Gnm - Cleric/No - Fighter/6 - Paladin/No - Ranger/No - Magic/No - Thief/Any
+
+Dragonlance
+
+QElf - Cleric/14 - Fighter/14 - Ranger/14 - Magic/14 - Thief/Any (no pal/kngt)
+SElf - Cleric/14 - Fighter/10 - Ranger/14 - Paladin/12 - Mage/14 - Thief/Any
+Kndr - Cleric/8  - Fighter/5  - Ranger/5  - Thief/Any - (nothing else)
+Hdwf - Cleric/10 - Fighter/14 - Ranger/8  - Thief/Any - (nothing else)
+Mdwf - Cleric/10 - Fighter/14 - Ranger/No - Paladin/8 - Thief/Any
+Hlf  - Cleric/14 - Figher/9   - Ranger/10 - Knight/10 - Magic/10 - Thief/Any
